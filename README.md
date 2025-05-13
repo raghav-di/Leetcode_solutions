@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raghav-di/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
 ## Math
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raghav-di/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raghav-di/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
