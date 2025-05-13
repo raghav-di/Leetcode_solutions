@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/raghav-di/Leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raghav-di/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
