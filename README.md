@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raghav-di/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/raghav-di/Leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/raghav-di/Leetcode_solutions/tree/master/0046-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
