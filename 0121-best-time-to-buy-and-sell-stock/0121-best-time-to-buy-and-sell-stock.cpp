@@ -21,7 +21,6 @@ public:
                     j=i+1;
                 }
             }
-            cout<<j;
             max=prices[j];
             if(j<prices.size()-1){
                 j++;
