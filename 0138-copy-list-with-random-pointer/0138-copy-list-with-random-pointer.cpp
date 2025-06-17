@@ -20,9 +20,6 @@ public:
         if(head==NULL){
             return NULL;
         }
-        // if(head->next==NULL){
-        //     Node* newHead = 
-        // }
         Node* temp=head;
         int prevVal;
 
