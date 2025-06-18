@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raghav-di/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/raghav-di/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raghav-di/Leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raghav-di/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
