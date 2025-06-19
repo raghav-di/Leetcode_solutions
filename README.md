@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
