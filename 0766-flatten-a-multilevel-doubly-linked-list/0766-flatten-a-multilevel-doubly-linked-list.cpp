@@ -13,7 +13,7 @@ class Solution {
     public:
     Node* flatten(Node* head) {
         if(head==NULL){
-            return head;
+            return NULL;
         }
         Node* curr=head;
 
