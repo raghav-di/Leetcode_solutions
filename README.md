@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghav-di/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raghav-di/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
