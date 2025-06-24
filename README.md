@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghav-di/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
