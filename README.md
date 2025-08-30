@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/raghav-di/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
+| [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
