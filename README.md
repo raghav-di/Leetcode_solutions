@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
+| [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghav-di/Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghav-di/Leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
