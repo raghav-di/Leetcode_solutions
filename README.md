@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2621-find-xor-beauty-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raghav-di/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [2621-find-xor-beauty-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [2621-find-xor-beauty-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/2621-find-xor-beauty-of-array) |
 <!---LeetCode Topics End-->
