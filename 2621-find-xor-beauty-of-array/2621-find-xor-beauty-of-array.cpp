@@ -5,6 +5,6 @@ public:
         for(int e: nums){
             num = num^e;
         }
-        return num^0;
+        return num;
     }
 };
