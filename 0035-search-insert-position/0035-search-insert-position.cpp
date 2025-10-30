@@ -4,33 +4,14 @@ public:
         int s = 0, e = nums.size()-1, mid;
         while(s<=e){
             mid = (e+s)/2;
-            // e = (nums[mid]>target)? mid: e;
+            e = (nums[mid]>target)? mid-1: e;
             if(nums[mid]==target){
                 return mid;
             }
-            // s = (nums[mid]<target)? mid: s;
-            else if(nums[mid]>target){
-                e = mid-1;
-                cout<<"e";
-            }
-            else{
-                s = mid+1;
-                cout<<"s";
-            }
-            cout<<mid<<" ";
+            s = (nums[mid]<target)? mid+1: s;
         }
-        // if(nums[mid]>target){
-        //     // if(mid>0){
-        //         return mid;
-        //     // }
-        // }
         while(mid<nums.size()&&nums[mid]<target){
-            // if(mid){
-                mid++;
-            // }
-            // else{
-            //     mid--;
-            // }
+            mid++;
         }
         return mid;
     }
