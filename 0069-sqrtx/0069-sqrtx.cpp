@@ -1,28 +1,23 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if(x==0){
-            return 0;
+        if (x < 2) return x;
+
+        int count = 0;
+        int temp = x;
+        while (temp > 0) {
+            count++;
+            temp >>= 1;
         }
-        if(x==1){
-            return 1;
-        }
-        // vector<int> nums;
-        // for(int i = 1; i<=x/2; i++){
-        //     nums.push_back(i);
-        // }
-        int s = 1, e = x/2, m, ans;
-        while(s<=e){
-            cout <<s<<" "<<e<<" /";
-            m = (e+s)/2;
-            long long t =(long long ) m*m;
-            if(t<=x){
-                ans = m;
+
+        int result = 0;
+        for (int i = (count + 1) / 2; i >= 0; --i) {
+            result |= (1 << i);
+            if ((long long) result * result > x) {
+                result ^= (1 << i);
             }
-            cout<<" a"<<ans<<" t"<<t;
-            s = (t<=x)? m+1:s;
-            e = (t>=x)? m-1:e;
         }
-        return ans;
+
+        return result;       
     }
 };
