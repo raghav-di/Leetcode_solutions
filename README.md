@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/raghav-di/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
@@ -230,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
