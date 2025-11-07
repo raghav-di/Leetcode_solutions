@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghav-di/Leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/raghav-di/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/raghav-di/Leetcode_solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raghav-di/Leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/raghav-di/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/raghav-di/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/raghav-di/Leetcode_solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/raghav-di/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Binary Search
@@ -235,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghav-di/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/raghav-di/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
