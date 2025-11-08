@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghav-di/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/raghav-di/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/raghav-di/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raghav-di/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/raghav-di/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raghav-di/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/raghav-di/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
