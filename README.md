@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/raghav-di/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/raghav-di/Leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1929-concatenation-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Math
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/raghav-di/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
