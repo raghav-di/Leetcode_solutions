@@ -1,22 +1,21 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        vector<int> ans;
-        unordered_map<int,int> m;
-        for(int i = 1; i<=nums.size(); i++){
-            m[i] = 0;
-        }
-        for(int i = 1; i<=nums.size(); i++){
-            m[nums[i-1]]++;
-            if(m[nums[i-1]]>1){
-                ans.push_back(nums[i-1]);
+        vector<int> ans(2);
+        unordered_map<int,int> map;
+        for(int i = 1; i<nums.size()+1; i++){
+            if(!map.contains(i)) map[i] = 0;
+
+            if(map.contains(nums[i-1])){
+                map[nums[i-1]]++;
+            }
+            else{
+                map[nums[i-1]] = 1;
             }
         }
-        for(int i = 1; i<=nums.size(); i++){
-            if(m[i] == 0){
-                ans.push_back(i);
-                return ans;
-            }
+        for(const auto& [key,val]: map){
+            if(map[key] == 2) ans[0] = key;
+            if(map[key] == 0) ans[1] = key;
         }
         return ans;
     }
