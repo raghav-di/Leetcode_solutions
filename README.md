@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghav-di/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/raghav-di/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/raghav-di/Leetcode_solutions/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/raghav-di/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/raghav-di/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/raghav-di/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/raghav-di/Leetcode_solutions/tree/master/0682-baseball-game) |
